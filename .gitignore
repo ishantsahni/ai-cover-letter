@@ -17,6 +17,9 @@
 /.next/
 /out/
 
+# distribution bundles
+/dist/
+
 # production
 /build
 
